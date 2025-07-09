@@ -1,41 +1,114 @@
-# Générateur de mots de passe V1
+# 🔐 Générateur de mots de passe V1
 
-Ce projet est un **générateur de mots de passe simple**, réalisé avec Python.
+Un **générateur de mots de passe simple et sécurisé** développé en Python.
 
-> C’est un projet en constante évolution, et des modifications seront apportées au fur et à mesure.
-> N’hésitez pas à explorer le code et à contribuer si vous le souhaitez.
+> Ce projet est en constante évolution. N'hésitez pas à explorer le code et à contribuer !
+
+## ✨ Fonctionnalités
+
+- Génération de mots de passe sécurisés
+- Interface simple et intuitive
+- Export en fichier exécutable (.exe)
+- Code source ouvert et modifiable
 
 ---
 
-## 📦 Télécharger l'application
+## 📦 Installation et utilisation
 
-Vous pouvez télécharger l’application **.exe** avec ce lien :
+### Option 1 : Télécharger l'exécutable
+
+Vous pouvez télécharger l'application **.exe** directement :
 
 [🔗 Télécharger Genpass.exe](https://drive.google.com/file/d/19D168m6MGTt_AvP4NuA995brggKlUT5D/view?usp=sharing)
 
 ⚠️ **Note de sécurité :**
 
-- Il est possible que votre ordinateur émette une alerte lors du téléchargement.
-- C’est une procédure de sécurité standard pour les fichiers téléchargés sur Internet, en particulier pour les fichiers exécutables.
-- Si vous êtes sûr de la source du fichier (dans ce cas, le lien ci-dessus), vous pouvez choisir de poursuivre le téléchargement et l’installation.
+- Votre antivirus peut émettre une alerte lors du téléchargement
+- C'est normal pour les fichiers exécutables téléchargés depuis Internet
+- Si vous faites confiance à la source, vous pouvez continuer l'installation
+
+### Option 2 : Installation depuis le code source
+
+1. Clonez le repository :
+
+```bash
+git clone https://github.com/Gw3nhael51/Genpass.exe.git
+```
+
+2. Installez les dépendances :
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Lancez l'application :
+
+```bash
+python generativepassw.py
+```
+
+---
+
+## 🛠️ Développement
+
+### Prérequis
+
+- Python 3.7+
+- pip (gestionnaire de paquets Python)
+
+### Installation des dépendances
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
 ## 🇬🇧 English version
 
-This project is a **simple password generator**, made with Python.
+A **simple and secure password generator** developed in Python.
 
-> It’s an ever-evolving project, and modifications will be made over time. Feel free to explore the code and contribute if you wish.
+> This project is constantly evolving. Feel free to explore the code and contribute!
 
-### Download the .exe
+### Features
 
-You can download the **.exe application** with this link:
+- Secure password generation
+- Simple and intuitive interface
+- Executable file export (.exe)
+- Open source and modifiable code
+
+### Download and usage
+
+#### Option 1: Download the executable
+
+You can download the **.exe application** directly:
 
 [🔗 Download Genpass.exe](https://drive.google.com/file/d/19D168m6MGTt_AvP4NuA995brggKlUT5D/view?usp=sharing)
 
 ⚠️ **Security note:**
 
-- Your computer may issue an alert during the download. This is a standard security procedure for files downloaded from the Internet, especially for executable files.
-- If you are sure of the source of the file (in this case, the link above), you can choose to continue the download and installation.
+- Your antivirus may issue an alert during download
+- This is normal for executable files downloaded from the Internet
+- If you trust the source, you can continue with the installation
+
+#### Option 2: Installation from source code
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Gw3nhael51/Genpass.exe.git
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the application:
+
+```bash
+python generativepassw.py
+```
 
 ---
